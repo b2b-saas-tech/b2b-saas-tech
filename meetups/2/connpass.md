@@ -30,7 +30,7 @@ HITCON, Open Source Summit North Americaなどのカンファレンスにて発�
 
 受託にて、TCP/IPの輻輳制御、MFA、IPsec、異常箇所推測などに関わったのち、Managed Security Service Providerの自社UTMのOS、監視基盤、ログ解析基盤の開発および運用に従事。
 
-2017年12月にfreeeに入社。CSIRT専属のエンジニアとして、情報収集、インシデント対応を行いつつ、情シス、SREにて活動中。
+2017年12月にfreeeに入社。CSIRT専属のエンジニアとして、情報収集、インシデント対応を行いつつ、SREにて活動中。
 
 ### [和田 浩一(Koichi)](https://twitter.com/Koichi) Tech Lead兼ラボコーディネーター 弁護士ドットコム株式会社
 
@@ -63,7 +63,7 @@ ReproのVP of PeopleOpsとして、グローバル進出を見据えイケてる
 時間| 内容
 --- | ---
 19:00 | 開場
-19:30 | LT: (仮)セキュリティツール検証、個人情報保護 by 株式会社 藤代 俊祐
+19:30 | LT: (仮)セキュリティツール検証、個人情報保護 by 藤代 俊祐
 19:40 | LT: (仮)SREチーム運用 by 杉浦 英史
 19:50 | LT: (仮)堅牢なアプリケーション設計 by 和田  浩一
 20:00 | LT: (仮)脆弱性検査 by 神戸 康多
