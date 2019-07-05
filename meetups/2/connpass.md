@@ -28,6 +28,8 @@ HITCON, Open Source Summit North Americaなどのカンファレンスにて発�
 
 ### [杉浦 英史](https://github.com/EijiSugiura) CSIRT専属エンジニア freee株式会社
 
+![]()
+
 受託にて、TCP/IPの輻輳制御、MFA、IPsec、異常箇所推測などに関わったのち、Managed Security Service Providerの自社UTMのOS、監視基盤、ログ解析基盤の開発および運用に従事。
 
 2017年12月にfreeeに入社。CSIRT専属のエンジニアとして、情報収集、インシデント対応を行いつつ、SREにて活動中。
@@ -38,7 +40,7 @@ HITCON, Open Source Summit North Americaなどのカンファレンスにて発�
 
 クラウド契約CloudSign(クラウドサイン)の開発を担当。
 
-インフォテリア、ヤフー、デジタルガレージなどを経て、2015年に弁護士ドットコム入社。
+ヤフー、デジタルガレージなどを経て、2015年に弁護士ドットコム入社。
 
 クラウドサインの立ち上げから開発に携わる。
 
