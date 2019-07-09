@@ -28,7 +28,7 @@ HITCON, Open Source Summit North Americaなどのカンファレンスにて発�
 
 ### [杉浦 英史](https://github.com/EijiSugiura) CSIRT専属エンジニア freee株式会社
 
-![](https://github.com/b2b-saas-tech/b2b-saas-tech/blob/master/meetups/2/eijisugiura.jpg?raw=true)
+![](https://github.com/b2b-saas-tech/b2b-saas-tech/blob/master/meetups/2/eijisugiura.png?raw=true)
 
 受託にて、TCP/IPの輻輳制御、MFA、IPsec、異常箇所推測などに関わったのち、Managed Security Service Providerの自社UTMのOS、監視基盤、ログ解析基盤の開発および運用に従事。
 
@@ -46,7 +46,7 @@ HITCON, Open Source Summit North Americaなどのカンファレンスにて発�
 
 ### [藤代 俊祐]() SFH BPM株式会社
 
-![](https://github.com/b2b-saas-tech/b2b-saas-tech/blob/master/meetups/2/fujisyun.jpg?raw=true)
+![](https://github.com/b2b-saas-tech/b2b-saas-tech/blob/master/meetups/2/fujisyun.png?raw=true)
 
 ゲーム制作会社での勤務やフリーランスとしての活動を経て、渋谷のソーシャルゲーム会社入社。エンジニア統括として、開発およびQAチームをマネジメント。2018年12月BPM入社。
 
