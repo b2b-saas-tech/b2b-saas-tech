@@ -1,0 +1,24 @@
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: black
+theme-override: meetups/2/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+
+logo: assets/images/logo-270x270.png
+footnote: ""
+
+# Analytics
+# gatoken:
+# Twitter
+title: "B2B SaaS Tech vol.2 避けては通れぬセキュリティ"
+description: "決して避けては通れないセキュリティ。
+SMBからエンタープライズのお客様のセキュリティチェックをクリアするためにも欠かせないものでもあり、どこまでいけば実用的な安全性を担保できるのかとても悩ましいものです。
+
+そんなセキュリティについて以下のような内容をテーマに語り合いましょう！ on 2019-07-31"
+thumbnail: meetups/2/thumbnail.png
